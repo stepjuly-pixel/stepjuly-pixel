@@ -3,6 +3,7 @@
 ### Power BI
 - [HR Analytics Dashboard](https://github.com/stepjuly-pixel/employee-analysis-dashboard)
 - [Financial Sales Analysis Dashboard](https://github.com/stepjuly-pixel/financial-sales-analysis-dashboard)
+- [Portugal Population Density Dashboard](https://github.com/stepjuly-pixel/portugal-population-density-dashboard)
 
 ### Tableau
 - [E-commerce Revenue & Orders Analysis Dashboard](https://github.com/stepjuly-pixel/revenue-and-orders-analysis-dashboard)
